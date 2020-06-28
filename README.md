@@ -88,6 +88,8 @@ A user named CloudTrail is created and assigned to the CloudTrailAdmins group.
 A user named Accountant is created and assigned to the Reviewers group.
 Both users have AWS Console access
 
+*** As a mentor commented in teh review, although I repear the process several times, in none of them, I don't know why, in the cloud trails logs do not appear the creation and assignation of users. Although,it can be seen in theimage, that I did create them [image, usersAndGroups] ***
+
 - [x] ***Update AWS password policy*** 
 
 Password policy meets or exceeds these requirements:
